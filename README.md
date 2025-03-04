@@ -1,4 +1,4 @@
-## 2025国家自然科学基金Latex模板-个人自用，非官方！！！：     https://www.overleaf.com/read/wbfpjnftdvdw#23e9c4
+## 2025国家自然科学基金Latex模板-个人自用，非官方！！！    https://www.overleaf.com/read/wbfpjnftdvdw#23e9c4
 #### 基于Mingming Cheng老师的[模板](https://github.com/MCG-NKU/NSFC-LaTex)修改，以windows平台的字体文件simkai.ttf为准，力求以overleaf-latex还原2025年基金委模板中的不可编辑部分（可编辑部分基本保持Mingming Cheng老师的风格不变）。
 
 **主要修改内容：**
