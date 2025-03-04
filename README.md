@@ -20,4 +20,5 @@
 
 
 效果如下（左：官方word模板导出的pdf，右：本项目编译的pdf）
-![Uploading image.png…]()
+<img width="1571" alt="image" src="https://github.com/user-attachments/assets/c1f874f1-3493-4bf5-853c-3fd96169fc17" />
+
