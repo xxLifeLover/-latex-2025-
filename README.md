@@ -14,11 +14,12 @@
 2. 使用模块化模板（使用该模板可删除“模板.tex”）：
     - **模版-模块化.tex**：结合“内容”文件夹运行的模块化模板。（该.tex只做全局声明和文件引用；其他内容均写在“内容”文件夹对应.tex文件中）
 
+效果如下（左：官方word模板导出的pdf，右：本项目编译的pdf）
+<img width="1571" alt="image" src="https://github.com/user-attachments/assets/c1f874f1-3493-4bf5-853c-3fd96169fc17" />
+
+
 
 #### 感谢Mingming Cheng老师的开源工作。
 #### 声明：非官方模板，可能存在错误，请注意甄别。此模板为非盈利项目，使用此模板的后续任何问题与模板制作人无关。
-
-
-效果如下（左：官方word模板导出的pdf，右：本项目编译的pdf）
-<img width="1571" alt="image" src="https://github.com/user-attachments/assets/c1f874f1-3493-4bf5-853c-3fd96169fc17" />
+#### 声明：禁止以商用盈利为目的的传播。
 
